@@ -1,4 +1,4 @@
-[profile_README.md](https://github.com/user-attachments/files/34671587/profile_README.md)
+[README.md](https://github.com/user-attachments/files/34671587/profile_README.md)
 # Hi, I'm Haikal Basha 👋
 
 Final year **Bachelor of Computer Science (Hons.) Computer Networks** student at **Universiti Teknologi MARA (UiTM)**, Malaysia. I'm interested in network security, intrusion detection and applying machine learning to defend networks.
